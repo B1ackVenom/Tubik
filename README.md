@@ -45,11 +45,12 @@ Follow these steps to get started with Tubik:
    pip install -r requirements.txt
    ```
    If you're missing tkinter, note that it is pre-installed with Python, so there’s no need to install it separately.
+   Also if any of the files didn't download or have any errors pls download manually.
 
-4. **Run the Application**  
+5. **Run the Application**  
    Start the application with the following command:
    ```bash
-   python app.py
+   python Tubik.py
    ```
 
 ---
@@ -69,7 +70,19 @@ Personalize your experience with these awesome themes:
 - 🌊 **Oceanic**  
 - 🌙 **Material Dark**  
 
+Let us know if u want any other themes I will add it,and also let us know if u need any new features or updates to this.
 ---
+
+
+## Future Improvements
+   - We will try to implement progressbar in this to track the download progress.
+   - We will try to add more themes.
+   - We will improve the UI according to feedback.
+   - We will test this on other linux distros in future.
+   - We will try to add support to download videos and audio from other socials as well (May take time)
+
+---
+
 
 ## 📄 License
 
