@@ -1,4 +1,3 @@
-Here’s a polished and well-organized version of your README file for **Tubik - YouTube Downloader**, formatted for better readability and a more professional appearance:
 
 ```markdown
 # **Tubik - YouTube Downloader** 🎥🎧
@@ -84,5 +83,3 @@ This project is licensed under the **MIT License**.
 2. **Formatted commands properly** in code blocks for easier copy-pasting.
 3. **Aligned emojis** to maintain a clean and appealing aesthetic.
 4. **Streamlined descriptions** to avoid redundancy and keep text concise.
-
-Let me know if you’d like further adjustments!
