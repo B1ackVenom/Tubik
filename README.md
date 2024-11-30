@@ -1,5 +1,5 @@
 
- **Tubik - YouTube Downloader** 🎥🎧
+## **Tubik - YouTube Downloader** 🎥🎧
 
 Tubik is a sleek and easy-to-use Python-based YouTube downloader that allows you to download both **videos** and **audio** in high-quality formats like MP4 (video) and MP3 (audio). Featuring a modern **CustomTkinter** user interface and support for multiple themes, Tubik makes downloading YouTube content a breeze. Powered by the powerful **yt-dlp** tool, it offers a seamless experience for users.
 
