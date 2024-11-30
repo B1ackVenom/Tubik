@@ -10,7 +10,8 @@ Tubik is a sleek and easy-to-use Python-based YouTube downloader that allows you
 - 🎶 **Download Audio** as **MP3** for music lovers  
 - 🖥️ **Modern GUI** built with **CustomTkinter**  
 - 🎨 **Multiple Theme Options** to personalize your experience  
-- 📊 **Real-time Progress Tracking** with a dynamic progress bar  
+- 📊 **Real-time Progress Tracking** with a dynamic progress bar
+- 🖥**Works on both Windows and Linux (tested only in arch didn't tasted in others if u download on other pls test and let me know if anything needs to be done)** 
 
 
 💡 Requirements
