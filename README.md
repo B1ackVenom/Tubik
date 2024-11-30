@@ -78,8 +78,3 @@ Personalize your experience with these awesome themes:
 This project is licensed under the **MIT License**.
 ```
 
-### Changes made:
-1. **Improved readability** by organizing sections into clear headings with consistent formatting.
-2. **Formatted commands properly** in code blocks for easier copy-pasting.
-3. **Aligned emojis** to maintain a clean and appealing aesthetic.
-4. **Streamlined descriptions** to avoid redundancy and keep text concise.
