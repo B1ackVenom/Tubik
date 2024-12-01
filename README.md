@@ -1,5 +1,5 @@
 
- **Tubik - YouTube Downloader** 🎥🎧
+## **Tubik - YouTube Downloader** 🎥🎧
 
 Tubik is a sleek and easy-to-use Python-based YouTube downloader that allows you to download both **videos** and **audio** in high-quality formats like MP4 (video) and MP3 (audio). Featuring a modern **CustomTkinter** user interface and support for multiple themes, Tubik makes downloading YouTube content a breeze. Powered by the powerful **yt-dlp** tool, it offers a seamless experience for users.
 
@@ -10,7 +10,8 @@ Tubik is a sleek and easy-to-use Python-based YouTube downloader that allows you
 - 🎶 **Download Audio** as **MP3** for music lovers  
 - 🖥️ **Modern GUI** built with **CustomTkinter**  
 - 🎨 **Multiple Theme Options** to personalize your experience  
-- 📊 **Real-time Progress Tracking** with a dynamic progress bar  
+- 📊 **Real-time Progress Tracking** with a dynamic progress bar
+- 🖥 **Works on both Windows and Linux (tested only in arch didn't tasted in others if u download on other pls test and let me know if anything needs to be done)** 
 
 
 💡 Requirements
@@ -44,11 +45,12 @@ Follow these steps to get started with Tubik:
    pip install -r requirements.txt
    ```
    If you're missing tkinter, note that it is pre-installed with Python, so there’s no need to install it separately.
+   Also if any of the files didn't download or have any errors pls download manually.
 
-4. **Run the Application**  
+5. **Run the Application**  
    Start the application with the following command:
    ```bash
-   python app.py
+   python Tubik.py
    ```
 
 ---
@@ -68,7 +70,19 @@ Personalize your experience with these awesome themes:
 - 🌊 **Oceanic**  
 - 🌙 **Material Dark**  
 
+Let us know if u want any other themes I will add it,and also let us know if u need any new features or updates to this.
 ---
+
+
+## Future Improvements
+   - We will try to implement progressbar in this to track the download progress.
+   - We will try to add more themes.
+   - We will improve the UI according to feedback.
+   - We will test this on other linux distros in future.
+   - We will try to add support to download videos and audio from other socials as well (May take time)
+
+---
+
 
 ## 📄 License
 
